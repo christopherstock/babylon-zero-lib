@@ -1,0 +1,27 @@
+{
+  "name": "babylon-zero-lib",
+  "version": "0.1.0",
+  "description": "The library for the babylon-zero project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherstock/babylon-zero-lib.git"
+  },
+  "keywords": [
+    "babylon.JS",
+    "lib"
+  ],
+  "author": "Christopher Stock <email@christopherstock.de> (http://www.christopherstock.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherstock/babylon-zero-lib/issues"
+  },
+  "homepage": "https://github.com/christopherstock/babylon-zero-lib#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
